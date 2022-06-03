@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<facturas>
+    <factura num="999">
+    <cliente numero="879">
+        <nombre> José Rodriguez</nombre>
+        <telefono> 910101010 </telefono>
+        <datosDeFactura ref="A101">
+            <descripcion>Placa Base QDI</descripcion>
+            <canitad>1</canitad>
+            <precio>230</precio>
+        </datosDeFactura>
+        <datosDeFactura ref="A105">
+            <descripcion>Placa Base QDI</descripcion>
+            <canitad>1</canitad>
+            <precio>110</precio>
+        </datosDeFactura>
+        <datosDeFactura ref="A107">
+            <descripcion>Placa Base QDI</descripcion>
+            <canitad>1</canitad>
+            <precio>150</precio>
+        </datosDeFactura>
+    </cliente>
+    </factura>
+</facturas>
